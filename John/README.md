@@ -1,4 +1,6 @@
 Valid names are 
 Rankingeek,
 khusboo,
-John 
+John . 
+
+-> Deployed Link -> https://ranking-geek-assignment.vercel.app/
