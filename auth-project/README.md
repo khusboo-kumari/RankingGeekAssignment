@@ -1,1 +1,1 @@
-Deployed Link : https://landingpage-iota-puce.vercel.app/
+Deployed Link : https://ranking-geek-assignment.vercel.app/login
