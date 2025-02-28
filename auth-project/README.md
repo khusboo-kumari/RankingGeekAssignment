@@ -1,1 +1,1 @@
-Deployed Link : https://ranking-geek-assignment.vercel.app/login
+Deployed Link : https://ranking-geek-assignment-p9ne.vercel.app/login
