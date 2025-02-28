@@ -5,7 +5,7 @@ import Signup from './pages/Signup';
 
 function App() {
   return (
-    <Router>  {/* Use BrowserRouter here */}
+    <Router>  {/* Use BrowserRouter here */} 
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/login' element={<Login />} />  {/* Add / before login */}
